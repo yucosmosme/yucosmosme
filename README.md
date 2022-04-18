@@ -3,7 +3,7 @@
 I am a web developer currently working in Seoul.
 Goal-oriented, active on learning new technologies!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucosmosme&theme=flag-india&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucosmosme&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucosmosme&layout=compact)](https://github.com/yucosmosme/github-readme-stats)
 
