@@ -5,7 +5,8 @@
 I am a web developer currently working in Seoul.
 Goal-oriented, active on learning new technologies!
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyucosmosme&count_bg=%23028A0F&title_bg=%23252525&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/2Fyucosmosme&count_bg=%23028A0F&title_bg=%23474747&icon=tinder.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
 
