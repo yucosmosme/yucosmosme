@@ -37,6 +37,7 @@ Goal-oriented, active on learning new technologies!
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![yucosmosme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucosmosme&show_icons=true)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -50,7 +51,6 @@ Goal-oriented, active on learning new technologies!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyucosmosme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucosmosme&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucosmosme&layout=compact)](https://github.com/yucosmosme/github-readme-stats)
 Here are some ideas to get you started:
