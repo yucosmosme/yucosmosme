@@ -1,13 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
-
 I am a web developer using React & Node.js.  
 Goal-oriented, active on learning new technologies!  
 
 ### Contact me 
-  [![Tech blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
+  [![GitHub blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
   [![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
-  [![gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
-	
+  [![gmail yucosmosme@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
+ 
+[![Linkedin: minahyu](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=yucosmosme.yucosmosme)
 
 
 ### Skills & Tools
@@ -33,6 +34,8 @@ Goal-oriented, active on learning new technologies!
 
 <!--
 **yucosmosme/yucosmosme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
 
 백준 티어 추가하기
 
