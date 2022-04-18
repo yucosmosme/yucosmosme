@@ -2,13 +2,12 @@ I am a web developer using React & Node.js.
 Goal-oriented, active on learning new technologies!  
 
 ### Contact me 
-  [![GitHub blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
-  [![linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
-  [![gmail yucosmosme@gmail.com](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
- 
-[![Linkedin: minahyu](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+[![blog](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
+[![linkedin](https://img.shields.io/badge/-minahyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
+[![Gmail](https://img.shields.io/badge/yucosmosme@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=yucosmosme.yucosmosme)
+ 
+<!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)-->
 
 
 ### Skills & Tools
