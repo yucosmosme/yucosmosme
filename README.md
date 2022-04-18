@@ -1,7 +1,7 @@
 I am a web developer using React & Node.js.  
 Goal-oriented, active on learning new technologies!  
 
-### Contact me 
+### :love_letter:Contact me 
 [![blog](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
 [![linkedin](https://img.shields.io/badge/-minahyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
 [![Gmail](https://img.shields.io/badge/yucosmosme-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
