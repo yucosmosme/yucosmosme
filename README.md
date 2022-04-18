@@ -14,7 +14,6 @@ Hi, I'm Minah, a passionate self-taught full stack web developer using React & N
 Goal-oriented, active on learning new technologies!  
 
 <br/>
-[![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
