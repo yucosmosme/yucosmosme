@@ -42,10 +42,11 @@ Goal-oriented, active on learning new technologies!
 <!--END_SECTION:waka-->
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)
   
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
+
 
 <!--
-**yucosmosme/yucosmosme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
 
 헤더 꾸미기
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
@@ -62,13 +63,5 @@ Goal-oriented, active on learning new technologies!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucosmosme&layout=compact)](https://github.com/yucosmosme/github-readme-stats)
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
