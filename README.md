@@ -14,6 +14,8 @@ Goal-oriented, active on learning new technologies!
 <br/>
 [![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)]
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **:hammer: languages and tools:**  
   
