@@ -12,6 +12,16 @@ Goal-oriented, active on learning new technologies!
 
 <br/>
 
+LOCALE: "ko"
+SHOW_LINES_OF_CODE: "True"
+SHOW_PROFILE_VIEWS: "True"
+SHOW_DAYS_OF_WEEK: "True"
+SHOW_SHORT_INFO: "True"
+SHOW_LOC_CHART: "True"
+SHOW_PROJECTS: "True"
+SHOW_LANGUAGE_PER_REPO: "True"
+
+
 **:hammer: languages and tools:**  
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
