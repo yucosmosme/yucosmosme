@@ -11,7 +11,7 @@ Hi, I'm Minah, a passionate self-taught full stack web developer using React & N
 Goal-oriented, active on learning new technologies!  
 
 <br/>
-
+<!--START_SECTION:waka-->
 LOCALE: "ko"
 SHOW_LINES_OF_CODE: "True"
 SHOW_PROFILE_VIEWS: "True"
@@ -20,6 +20,7 @@ SHOW_SHORT_INFO: "True"
 SHOW_LOC_CHART: "True"
 SHOW_PROJECTS: "True"
 SHOW_LANGUAGE_PER_REPO: "True"
+<!--END_SECTION:waka-->
 
 
 **:hammer: languages and tools:**  
