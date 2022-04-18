@@ -13,6 +13,7 @@ Goal-oriented, active on learning new technologies!
 
 <br/>
 [![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)]
+
 <!--START_SECTION:waka-->
 SHOW_LINES_OF_CODE: "True"
 SHOW_PROFILE_VIEWS: "True"
