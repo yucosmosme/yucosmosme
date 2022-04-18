@@ -12,10 +12,12 @@ Goal-oriented, active on learning new technologies!
 
 <br/>
 <!--START_SECTION:waka-->
-LOCALE: "ko"
 SHOW_LINES_OF_CODE: "True"
 SHOW_PROFILE_VIEWS: "True"
 SHOW_DAYS_OF_WEEK: "True"
+SHOW_LANGUAGE : "True"
+SHOW_TIMEZONE : "True"
+SHOW_OS : "True" 
 SHOW_SHORT_INFO: "True"
 SHOW_LOC_CHART: "True"
 SHOW_PROJECTS: "True"
