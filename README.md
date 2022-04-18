@@ -1,15 +1,14 @@
 ### Hey There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-Hi, I'm Minah, a passionate self-taught full stack web developer using React & Node.js. 
-Goal-oriented, active on learning new technologies!  
-
-### :love_letter: Contact me 
 [![blog](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
 [![linkedin](https://img.shields.io/badge/-minahyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
 [![Gmail](https://img.shields.io/badge/yucosmosme-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=yucosmosme.yucosmosme)
- 
 <!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)-->
+
+Hi, I'm Minah, a passionate self-taught full stack web developer using React & Node.js. 
+Goal-oriented, active on learning new technologies!  
+
+
 
 
 ### :hammer: Skills & Tools
