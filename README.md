@@ -40,9 +40,9 @@ Goal-oriented, active on learning new technologies!
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)
   
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme")
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
 
 <!--
 **yucosmosme/yucosmosme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
