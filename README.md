@@ -4,9 +4,9 @@ I am a web developer using React & Node.js.
 Goal-oriented, active on learning new technologies!
 
 ### Contact me 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://zzsza.github.io/)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
+  [![Gitblog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://zzsza.github.io/)
+  [![MinahYu Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
+  [![yucosmosme@gmail.com Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
 	
 
 
