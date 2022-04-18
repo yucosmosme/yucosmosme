@@ -1,4 +1,4 @@
-Hey There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Minah, a passionate self-taught full stack web developer using React & Node.js. 
 Goal-oriented, active on learning new technologies!  
