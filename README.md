@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
 
-I am a web developer using React & Node.js.
-Goal-oriented, active on learning new technologies!
+I am a web developer using React & Node.js.  
+Goal-oriented, active on learning new technologies!  
 
 ### Contact me 
   [![Tech blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
