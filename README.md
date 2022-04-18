@@ -14,18 +14,6 @@ Goal-oriented, active on learning new technologies!
 <br/>
 [![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)]
 
-<!--START_SECTION:waka-->
-SHOW_LINES_OF_CODE: "True"
-SHOW_PROFILE_VIEWS: "True"
-SHOW_DAYS_OF_WEEK: "True"
-SHOW_LANGUAGE : "True"
-SHOW_TIMEZONE : "True"
-SHOW_OS : "True" 
-SHOW_SHORT_INFO: "True"
-SHOW_LOC_CHART: "True"
-SHOW_PROJECTS: "True"
-SHOW_LANGUAGE_PER_REPO: "True"
-<!--END_SECTION:waka-->
 
 
 **:hammer: languages and tools:**  
