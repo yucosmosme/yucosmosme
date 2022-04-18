@@ -13,7 +13,7 @@ Goal-oriented, active on learning new technologies!
 
 <br/>
 
-[![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)](https://github.com/yucosmosme/github-readme-stats)
+[![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)]
 
 **:hammer: languages and tools:**  
   
