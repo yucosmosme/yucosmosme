@@ -7,12 +7,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 Hi, I'm Minah, a passionate self-taught full stack web developer using React & Node.js. 
 Goal-oriented, active on learning new technologies!  
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
