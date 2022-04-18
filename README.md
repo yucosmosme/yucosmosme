@@ -5,8 +5,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yucosmosme.yucosmosme)
 <!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)-->
 
+
+
+
+
 Hi, I'm Minah, a passionate self-taught full stack web developer using React & Node.js. 
 Goal-oriented, active on learning new technologies!  
+
 
 
 
