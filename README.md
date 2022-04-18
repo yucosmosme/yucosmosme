@@ -1,4 +1,4 @@
-<!--START_SECTION:waka-->
+
   
 ### Hey There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![blog](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
@@ -16,6 +16,8 @@ Goal-oriented, active on learning new technologies!
 <br/>
 [![yucosmosme's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme)]
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 **:hammer: languages and tools:**  
   
@@ -63,5 +65,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!--END_SECTION:waka-->
