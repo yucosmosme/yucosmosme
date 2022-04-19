@@ -43,11 +43,11 @@ Goal-oriented, active on learning new technologies!
 <!--END_SECTION:waka-->
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)
   
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
 
 
 <!--
 
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
 
 헤더 꾸미기
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
