@@ -116,12 +116,12 @@ R                        1 repo              █░░░░░░░░░░�
  Last Updated on 20/04/2022 15:59:20 UTC
 <!--END_SECTION:waka-->
 <!--![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)-->
-  
+
+<!--
+
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
   
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989)
-
-<!--
 
 
 헤더 꾸미기
