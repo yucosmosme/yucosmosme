@@ -123,20 +123,19 @@ Vue                      2 repos             ██░░░░░░░░░�
 
  Last Updated on 12/05/2022 15:56:34 UTC
 <!--END_SECTION:waka-->
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989">
+
 <!--![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)-->
 
 <!--
 
 ![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
   
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989)
-
 
 헤더 꾸미기
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
-
-백준 티어 추가하기
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989">
 
 조회수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyucosmosme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
