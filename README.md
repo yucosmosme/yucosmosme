@@ -124,8 +124,8 @@ Vue                      2 repos             ██░░░░░░░░░�
  Last Updated on 12/05/2022 15:56:34 UTC
 <!--END_SECTION:waka-->
 
+<!-- -->
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989">
 
 <!--![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)-->
 
