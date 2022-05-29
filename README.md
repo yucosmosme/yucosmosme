@@ -52,9 +52,9 @@ Goal-oriented, active on learning new technologies!
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 17 Public Repositories 
+> 📜 16 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -120,7 +120,7 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/05/2022 15:51:05 UTC
+ Last Updated on 29/05/2022 15:52:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
