@@ -3,7 +3,7 @@
 ### Hey There ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![blog](http://img.shields.io/badge/-blog-black?style=flat-square&logo=github&link=https://yucosmosme.github.io/)](https://yucosmosme.github.io/)
 [![linkedin](https://img.shields.io/badge/-minahyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minahyu/)](https://www.linkedin.com/in/minahyu/)
-[![Gmail](https://img.shields.io/badge/yucosmosme-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
+<!--[![Gmail](https://img.shields.io/badge/yucosmosme-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)-->
 ![](https://visitor-badge.glitch.me/badge?page_id=yucosmosme.yucosmosme)
 [![wakatime](https://wakatime.com/badge/user/b1605a28-1a98-4cda-bfc4-5d70b631773c.svg)](https://wakatime.com/@b1605a28-1a98-4cda-bfc4-5d70b631773c)
 <!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)-->
