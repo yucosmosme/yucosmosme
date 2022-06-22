@@ -42,7 +42,7 @@ Goal-oriented, active on learning new technologies!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,16 +85,21 @@ Sunday       67 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     15 mins             ████████░░░░░░░░░░░░░░░░░   31.86% 
+Vue.js                   14 mins             ███████░░░░░░░░░░░░░░░░░░   28.97% 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
+JavaScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bmpilates                35 mins             ██████████████████░░░░░░░   71.73% 
+urbanfield               13 mins             ███████░░░░░░░░░░░░░░░░░░   28.27%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  49 mins             █████████████████████████   100.0%
 
 ```
 
@@ -115,7 +120,7 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/06/2022 15:51:54 UTC
+ Last Updated on 22/06/2022 15:52:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
