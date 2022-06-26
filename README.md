@@ -10,9 +10,9 @@
 
 <br/>
 
-Hi, I'm Minah, a passionate self-taught full stack web developer.  
+<!--Hi, I'm Minah, a passionate self-taught full stack web developer.  
 Currently using React & Node.js.  
-Goal-oriented, active on learning new technologies!  
+Goal-oriented, active on learning new technologies!  -->
 
 <br/>
 
