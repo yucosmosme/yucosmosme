@@ -85,20 +85,16 @@ Sunday       72 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SCSS                     2 hrs 43 mins       █████████████████░░░░░░░░   69.2% 
-JavaScript               1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   29.64% 
-PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 55 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-bmtheprivate             3 hrs 53 mins       ████████████████████████░   99.11% 
-bodymechanic             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,7 +115,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2022 15:54:41 UTC
+ Last Updated on 08/07/2022 15:54:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
