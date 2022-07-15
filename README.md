@@ -42,7 +42,7 @@ Goal-oriented, active on learning new technologies!  -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,7 +115,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 15:52:14 UTC
+ Last Updated on 15/07/2022 15:53:57 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
