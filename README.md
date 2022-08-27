@@ -8,19 +8,20 @@
 [![Gmail](https://img.shields.io/badge/yucosmosme-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yucosmosme@gmail.com)](mailto:yucosmosme@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=yucosmosme.yucosmosme)
 [![wakatime](https://wakatime.com/badge/user/b1605a28-1a98-4cda-bfc4-5d70b631773c.svg)](https://wakatime.com/@b1605a28-1a98-4cda-bfc4-5d70b631773c)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)-->
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 
 <br/>
 
-<!--Hi, I'm Minah, a passionate self-taught full stack web developer.  
+Hi, I'm Minah, a passionate self-taught full stack web developer.  
 Currently using React & Node.js.  
-Goal-oriented, active on learning new technologies!  -->
+Goal-oriented, active on learning new technologies!
 
 <br/>
 
 **:hammer: languages and tools:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+-->
 
 <!--  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
