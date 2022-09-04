@@ -44,13 +44,13 @@ Goal-oriented, active on learning new technologies!
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 543 Contributions in the Year 2022
+> 🏆 546 Contributions in the Year 2022
  > 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
@@ -60,56 +60,14 @@ Goal-oriented, active on learning new technologies!
  > 
 > 🔑 18 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.55% 
-🌆 Daytime    533 commits    ██████████████████░░░░░░░   72.12% 
-🌃 Evening    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.7% 
-🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       194 commits    ██████░░░░░░░░░░░░░░░░░░░   26.25% 
-Tuesday      133 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
-Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.77% 
-Thursday     119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
-Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
-Saturday     30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
-Sunday       84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   41.38% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -119,7 +77,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 15:51:32 UTC
+ Last Updated on 04/09/2022 15:50:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
