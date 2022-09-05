@@ -44,7 +44,7 @@ Goal-oriented, active on learning new technologies!
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -60,14 +60,56 @@ Goal-oriented, active on learning new technologies!
  > 
 > 🔑 18 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
+🌆 Daytime    534 commits    ██████████████████░░░░░░░   72.16% 
+🌃 Evening    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
+🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       194 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22% 
+Tuesday      133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Thursday     119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
+Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
+Saturday     30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
+Sunday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -77,7 +119,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 15:50:46 UTC
+ Last Updated on 05/09/2022 15:52:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
