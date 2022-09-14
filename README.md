@@ -60,48 +60,6 @@ Goal-oriented, active on learning new technologies!
  > 
 > 🔑 18 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
-🌆 Daytime    534 commits    ██████████████████░░░░░░░   72.16% 
-🌃 Evening    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.68% 
-🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       194 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22% 
-Tuesday      133 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
-Wednesday    87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Thursday     119 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.08% 
-Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.43% 
-Saturday     30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-Sunday       85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -119,7 +77,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 15:56:53 UTC
+ Last Updated on 14/09/2022 15:55:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
