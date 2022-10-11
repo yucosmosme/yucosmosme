@@ -50,7 +50,7 @@ Goal-oriented, active on learning new technologies!
 
 **🐱 My GitHub Data** 
 
-> 🏆 551 Contributions in the Year 2022
+> 🏆 552 Contributions in the Year 2022
  > 
 > 📦 2.4 MB Used in GitHub's Storage 
  > 
@@ -105,11 +105,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               13 repos            ██████████░░░░░░░░░░░░░░░   43.33% 
 Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
@@ -119,7 +119,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/10/2022 15:59:50 UTC
+ Last Updated on 11/10/2022 15:59:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
