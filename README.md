@@ -46,7 +46,7 @@ Goal-oriented, active on learning new technologies!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -119,7 +119,7 @@ Java                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/yucosmosme/yucosmosme/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 15:51:22 UTC
+ Last Updated on 07/11/2022 15:51:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- -->
