@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+<!--
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2028%20mins-blue)
 
@@ -94,4 +95,5 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
  Last Updated on 09/11/2022 15:53:43 UTC
+-->
 <!--END_SECTION:waka-->
