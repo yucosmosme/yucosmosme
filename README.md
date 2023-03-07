@@ -21,9 +21,6 @@ Goal-oriented, active on learning new technologies!
 **:hammer: languages and tools:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
--->
-
-<!--  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,9 +38,28 @@ Goal-oriented, active on learning new technologies!
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989)
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)
+
+![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
+  
+헤더 꾸미기
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
+
+조회수
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyucosmosme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+깃헙 통계(public푸쉬만 적용)
+![yucosmosme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucosmosme&show_icons=true&theme=merko)
+
+많이쓴 언어(public푸쉬만 적용)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucosmosme&layout=compact)](https://github.com/yucosmosme/github-readme-stats)
+Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -79,29 +95,3 @@ Java                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 09/11/2022 15:53:43 UTC
 <!--END_SECTION:waka-->
-
-<!-- -->
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mayu1989)
-
-<!--![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2)-->
-
-<!--
-
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&layout=compact&&theme=default&link="https://github-readme-stats.vercel.app/api/wakatime?username=yucosmosme&v=2")
-  
-
-헤더 꾸미기
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there&fontSize=50&fontColor=ffffff)
-
-조회수
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyucosmosme&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-깃헙 통계(public푸쉬만 적용)
-![yucosmosme's GitHub stats](https://github-readme-stats.vercel.app/api?username=yucosmosme&show_icons=true&theme=merko)
-
-많이쓴 언어(public푸쉬만 적용)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yucosmosme&layout=compact)](https://github.com/yucosmosme/github-readme-stats)
-Here are some ideas to get you started:
-
--->
-
